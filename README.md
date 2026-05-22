@@ -1,4 +1,5 @@
-# ArchiFlow-IDE
+# Ooprax
+(Object‑Oriented Programming Architecture Experience)
 ## (Visual OOP Architecture IDE)
 ### Unified Visual Architecture • JSON-based OOP Model • AI‑Readable System  
 **Author & IP Owner: Atila Ghashghaie**  
