@@ -1,4 +1,5 @@
-# Visual OOP Architecture IDE  
+# ArchiFlow-IDE
+## (Visual OOP Architecture IDE)
 ### Unified Visual Architecture • JSON-based OOP Model • AI‑Readable System  
 **Author & IP Owner: Atila Ghashghaie**  
 Email: atila.gh@gmail.com  
