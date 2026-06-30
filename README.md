@@ -66,8 +66,9 @@ They don't compete - they **COMPLEMENT** each other!
 
 ### 🟩 1. Architecture-as-a-File
 A single file (`project.oop`) becomes the **source of truth** for the entire project architecture. All modules, classes, methods, and their relationships are stored in one unified JSON structure.
+Note: The entire project is built in just one file.
 
-![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/01.png)
+![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/04.png)
 
 
 ### 🟩 2. Unified JSON OOP Model
@@ -90,6 +91,9 @@ Graphical representation of the entire project structure with color-coded nodes 
 
 ### 🟩 6. Datum Connections
 Automatic detection and visualization of dependencies between project components, revealing hidden relationships.
+![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/05.png)
+![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/06.png)
+
 
 
 ---
@@ -103,6 +107,7 @@ Automatic detection and visualization of dependencies between project components
 - 🔗 Dependencies are **invisible** until something breaks
 - 📊 No tool gives you a **bird's eye view** of your entire codebase
 - 🔒 No control over critical components during development
+
 
 ### The Solution
 **O²Prex** transforms how you interact with your codebase:
@@ -119,6 +124,9 @@ Automatic detection and visualization of dependencies between project components
 | 🔧 Manual code generation | ⚙️ **Merge Engine** for automated code generation |
 
 ---
+  ![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/20.png)
+
+
 
 ## ✨ Key Features
 
@@ -151,12 +159,17 @@ Search across **code, tags, comments, and docstrings**, then **isolate** only ma
 - **Move Mode** to restructure visually (OOP rules enforced)
 - **Copy/Cut/Paste** entire trees with automatic ID generation
 - **Undo/Redo** for architecture changes
+![fold a class](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/18.png)
+
 
 ### 🚀 External Editor Integration
 Ctrl+Double-click any item to open it in **VS Code** (or any IDE) with:
 - ✅ Auto-complete configured
 - ✅ PYTHONPATH set
 - ✅ File Watcher for instant sync
+![With external IDE Vscode](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/18.png)
+![With Intenal Editor](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/19.png)
+
 
 Changes in your IDE are **instantly reflected** back in O²Prex!
 
@@ -165,7 +178,7 @@ Export your entire project as **JSONC** with:
 - Full tree structure
 - All code with line numbers
 - Docstrings and metadata
-- AI-friendly comments with instructions
+- AI-friendly comments with instructions (The entire project is collected in just one file.)
 
 Feed it to **ChatGPT, Claude, Gemini** and get:
 - 📊 Architecture analysis
@@ -240,11 +253,14 @@ Use built-in editor or **VS Code/PyCharm** to write code in each item. O²Prex s
 - Track progress with **Todos & Flags**
 - Lock/Suppress items for **controlled development**
 - Fold/Unfold for **clean view**
+  ![todo list just for an Item](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/10.png)
+
 
 ### 5️⃣ Generate & Export
 - **Merge Engine** generates clean source code
 - **AI-Ready JSONC** for ChatGPT/Claude
 - Get **automatic analysis and documentation**
+  ![Merge the entire project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/20.png)
 
 ---
 
@@ -320,10 +336,8 @@ O²Prex/
 - Architecture-as-a-File
 
 ### 🔜 Version 2.0
-- **AST-based** dependency analysis (100% accurate)
-- Support for **1000+ item** projects
 - Performance optimization
-- **Java & C++** language support
+- **Java & C++ & ...** language support in one project and one File 
 
 ### 🔜 Version 3.0
 - Git/GitHub/GitLab integration
