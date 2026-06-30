@@ -91,7 +91,6 @@ Graphical representation of the entire project structure with color-coded nodes 
 
 ### 🟩 6. Datum Connections
 Automatic detection and visualization of dependencies between project components, revealing hidden relationships.
-![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/05.png)
 ![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/06.png)
 
 
